@@ -7,7 +7,7 @@ const Hero = () =>{
             <div className={classes.image}>
                 <Image src="/images/site/max.png" alt="an image showing andi" width={300} height={300} />
             </div>     
-                <h1>Hi im max</h1>
+                <h1>Hi im Andi</h1>
                 <p>
                     i blog about web development - especialy frontend framework like angular or react
                 </p>
