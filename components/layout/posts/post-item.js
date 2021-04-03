@@ -12,7 +12,7 @@ const PostItem = (props) => {
 
   const linkpath = `/posts/${slug}`
 
-  const imagePath = `/images/posts/${slug}/${image}`;
+  const imagePath = `/images/posts/${image}`;
   return (
     <li className={classes.post}>
       <Link href={linkpath}>
