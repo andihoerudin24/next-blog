@@ -2,6 +2,7 @@ import Allpost from "../../components/layout/posts/all-posts";
 import { getAllPosts } from "../../lib/posts-util";
 
 const AllPostsPage = (props) => {
+  console.log('props',props)
   return <Allpost posts={props.posts} />;
 };
 
