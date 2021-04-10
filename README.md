@@ -14,8 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
   ## You can see demo apllication in this link.
-        Open <a href="https://www.w3schools.com">Visit W3Schools</a>
-
+        
+ Open this link for demo application <a href="https://www.w3schools.com">Visit W3Schools</a>
 
 1.<p align="center"><img src="https://github.com/andihoerudin24/next-blog/blob/master/1.png"></p>
 2.<p align="center"><img src="https://github.com/andihoerudin24/next-blog/blob/master/2.png"></p>
